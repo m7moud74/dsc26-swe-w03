@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.pytest_cache/
+
+# Databases
+*.db
+rawaj.db
+
+# Alembic local
+*.db-journal
